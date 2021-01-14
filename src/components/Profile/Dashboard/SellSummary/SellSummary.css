@@ -1,0 +1,10 @@
+.sellSummary {
+    background-color: tomato;
+
+    flex-grow: 0.85;
+}
+
+.sellSummary > table > tr > span {
+    margin: 12px;
+    background-color: rosybrown;
+}
