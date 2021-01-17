@@ -18,7 +18,7 @@ class Profile extends Component{
                 <ul class="list-group list-group-flush lisst">
                     
                     <li class="list-group-item">Sell Item</li>
-                    <li class="list-group-item">Purchase Info</li>
+                    <li class="list-group-item"><a href='/purchaseInfo'>Purchase Info</a></li>
                     <li class="list-group-item">My Cart</li>
                     <li class="list-group-item">Sold Summary</li>
                     <li class="list-group-item">Volenteer Info</li>

@@ -1,0 +1,30 @@
+.sold-status span {
+    color: white;
+    padding: 5px;
+    border-radius: 15%;
+}
+
+.sold-status.yellow span {
+    background-color:yellow;
+    color: black;
+}
+
+.sold-status.green span {
+    background-color: green;
+}
+
+.sold-status.red span {
+    background-color: red;
+}
+
+
+.soldItem .order_options {
+    background: none;
+    margin: 0px 7px;
+}
+
+.soldItem .order_options:hover {
+    background: rgb(160, 158, 158);
+    color: white;
+    margin: 0px 7px;
+}
