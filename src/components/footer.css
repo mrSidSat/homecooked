@@ -1,0 +1,21 @@
+li{
+    list-style: none;
+    padding:0px;
+    margin:0px;
+}
+ul{
+    padding:0px;
+    margin:0px;
+}
+/* .row{
+    margin-top:30px;
+    padding:20px;
+} */
+.footarea{
+    background-color:rgb(158, 82, 230);
+    color:white;
+    width:100%;
+    margin:0px;
+    padding:15px;
+    
+}
