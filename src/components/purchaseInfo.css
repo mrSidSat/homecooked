@@ -1,0 +1,37 @@
+.list-group-item > a {
+    color: inherit;
+}
+
+.table {
+    text-align: center;
+}
+
+.purchase-status span {
+    color: white;
+    padding: 5px;
+    border-radius: 15%;
+}
+
+.purchase-status.green span {
+    background-color: green;
+}
+
+.purchase-status.yellow span {
+    background-color: yellow;
+    color: black;
+}
+
+.purchase-status.red span {
+    background-color: red;
+}
+
+.purchasedItem .order_options {
+    background: none;
+    margin: 0px 7px;
+}
+
+.purchasedItem .order_options:hover {
+    background: rgb(160, 158, 158);
+    color: white;
+    margin: 0px 7px;
+}
